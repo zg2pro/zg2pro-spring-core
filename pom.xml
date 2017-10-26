@@ -7,7 +7,7 @@
     <name>zg2pro-spring-core</name>
     <description>parent project for my safe-setup and rest-basis, must resolve all lib conflicts</description>
     <packaging>pom</packaging>
-    <version>0.3</version>
+    <version>0.4-SNAPSHOT</version>
     <url>https://github.com/zg2pro/zg2pro-spring-core</url>
     
     <properties>
