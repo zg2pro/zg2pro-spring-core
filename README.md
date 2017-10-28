@@ -1,6 +1,7 @@
 # zg2pro-spring-core
 
 [![MIT](https://img.shields.io/npm/l/inferno.svg?style=flat-square)](https://github.com/zg2pro/zg2pro-spring-core/blob/master/LICENSE.md)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.zg2pro/zg2pro-spring-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.zg2pro/zg2pro-spring-core)
 
 parent project for my safe-setup and rest-basis
 
