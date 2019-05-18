@@ -12,9 +12,9 @@
     <url>https://github.com/zg2pro/zg2pro-spring-core</url>
     
     <properties>
-        <java.version>8</java.version>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <java.version>12</java.version>
+        <maven.compiler.source>1.12</maven.compiler.source>
+        <maven.compiler.target>1.12</maven.compiler.target>
         <jackson.version>2.9.0</jackson.version>
         <spring.version>5.0.0.RC3</spring.version>
         <spring.security.version>5.0.0.M5</spring.security.version>
