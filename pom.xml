@@ -16,7 +16,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <jackson.version>2.9.8</jackson.version>
-        <spring.version>5.1.7.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <spring.security.version>5.1.5.RELEASE</spring.security.version>
         <spring.boot.version>2.1.5.RELEASE</spring.boot.version>
         <slf4j.version>1.7.25</slf4j.version>
